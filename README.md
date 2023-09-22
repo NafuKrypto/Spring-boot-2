@@ -18,3 +18,7 @@ CREATE USER nafisa WITH PASSWORD 'nafisa123';
   
 - INSERT INTO customer(id,name,email,age)
 customer-# VALUES (nextval('customer_id_Sequence'),'Alex','alex@gmail.com',22);
+
+# IntellijIDEA
+cd /path/to/your/intellij-idea/bin
+./idea.sh
