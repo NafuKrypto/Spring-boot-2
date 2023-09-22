@@ -11,3 +11,7 @@ psql -U postgres
 
 CREATE USER nafisa WITH PASSWORD 'nafisa123';
 ```
+# Postgres 
+- sudo -u postgres psql
+- \l
+- 
