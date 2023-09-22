@@ -14,4 +14,5 @@ CREATE USER nafisa WITH PASSWORD 'nafisa123';
 # Postgres 
 - sudo -u postgres psql
 - \l
+- \c customer ----> connected to db
 - 
