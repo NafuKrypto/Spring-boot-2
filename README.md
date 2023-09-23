@@ -25,6 +25,9 @@ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgre
 docker exec -it some-postgres bash
 psql -U postgres
 
+docker start some-postgres
+
+
 CREATE USER nafisa WITH PASSWORD 'nafisa123';
 ```
 # Postgres 
